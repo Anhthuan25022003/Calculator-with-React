@@ -1,4 +1,4 @@
-Calculator
+Calculator with React
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
 
